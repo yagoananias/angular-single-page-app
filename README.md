@@ -16,7 +16,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## :heavy_check_mark: :computer: Versão Web
 
 <h1 align="center">
-    <img alt="Single Page App Web" src="https://res.cloudinary.com/yagoananias/image/upload/v1624069806/github%20mocks/single-page-app_lux2sy.jpg">
+    <img alt="Single Page App Web Version" src="https://res.cloudinary.com/yagoananias/image/upload/v1624069806/github%20mocks/single-page-app_lux2sy.jpg">
 </h1>
 
 ---
