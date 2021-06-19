@@ -11,7 +11,7 @@
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [Angular 11](https://angular.io/)
-- [JSON Server](hhttps://www.npmjs.com/package/json-server)
+- [JSON Server](https://www.npmjs.com/package/json-server)
 
 ## :heavy_check_mark: :computer: Versão Web
 
